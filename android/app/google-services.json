@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1080463414374",
+    "project_id": "commissions-87201",
+    "storage_bucket": "commissions-87201.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080463414374:android:1d43157bb2f8988213c9a7",
+        "android_client_info": {
+          "package_name": "com.example.bookwell"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzQ6pJ8DbqpeetyhhlWCNuOvXdsgaWNsU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

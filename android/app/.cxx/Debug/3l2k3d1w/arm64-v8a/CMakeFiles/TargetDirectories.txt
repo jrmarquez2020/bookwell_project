@@ -1,0 +1,2 @@
+C:/Booking/bookwell/android/app/.cxx/Debug/3l2k3d1w/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Booking/bookwell/android/app/.cxx/Debug/3l2k3d1w/arm64-v8a/CMakeFiles/rebuild_cache.dir
